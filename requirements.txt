@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+pytesseract
+Pillow
+matplotlib
+google-generativeai
+pdf2image
